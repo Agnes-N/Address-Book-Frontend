@@ -1,0 +1,27 @@
+// {
+//     "parser": "babel-eslint",
+//     "env": {
+//       "browser": true,
+//       "node": true,
+//       "es6": true,
+//       "jest": true 
+  
+//     },
+//     "extends": ["airbnb", "plugin:prettier/recommended", "prettier/react"],
+//     "rules": {
+//       "indent": ["warn"],
+//       "quotes": ["warn", "double"],
+//       "no-tabs": [1],
+//       "no-console":"warn",
+//       "import/extensions": [0],
+//       "react/jsx-indent": [0],
+//       "react/jsx-fragments": [0],
+//       "linebreak-style": 0,
+//       "global-require": 0,
+//       "eslint linebreak-style": [0, "error", "windows"],
+//       "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"]}],
+//       "jsx-a11y/control-has-associated-label": [0],
+//       "jsx-a11y/anchor-is-valid": [0],
+//       "react/jsx-props-no-spreading": 0
+//     }
+//   }
